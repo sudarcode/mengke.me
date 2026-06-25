@@ -1,22 +1,22 @@
 export const AUTHOR_INFO = {
-  name: 'Mengke',
+  name: 'Sudar',
   description:
     'A personal space on the cloud where I document my programming journey, sharing lessons, insights, and resources for fellow developers.',
   email: 'me@mengke.me',
   identity: 'Learner | Builder',
   address: {
-    city: 'Peking, China',
+    city: 'Jatim, Indonesia',
     flag: 'flag-china',
     timeZone: 8,
   },
   work: {
     company: '',
     occupation: 'Front-End Engineer',
-    location: 'Peking, China',
+    location: 'Jawa Timur, Indonesia',
     website: '/',
   },
   social: {
-    github: 'https://github.com/mk965',
+    github: 'https://github.com/sudarcode',
     x: '/',
     facebook: '/',
     youtube: '/',
