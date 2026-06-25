@@ -7,8 +7,8 @@ import { Link } from '~/components/ui/link'
 // import { Twemoji } from '~/components/ui/twemoji'
 import { AUTHOR_INFO } from '~/data/author-info'
 
-const TIME_IS = 'https://time.is/Beijing'
-const MY_TIMEZONE = 'Asia/Shanghai'
+const TIME_IS = 'https://time.is/Indonesia'
+const MY_TIMEZONE = 'Asia/Jakarta'
 const MY_TIMEZONE_OFFSET = AUTHOR_INFO.address.timeZone * -60
 
 function getTime() {
