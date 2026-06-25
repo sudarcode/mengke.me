@@ -7,7 +7,7 @@ export const SITE_METADATA = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://sudar.id',
-  siteRepo: 'https://github.com/mk965/mengke.me',
+  siteRepo: 'https://github.com/mk965/sudarcode',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/profile.webp`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.jpeg`,
 
