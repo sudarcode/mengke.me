@@ -1,12 +1,12 @@
 export const SITE_METADATA = {
-  title: `Mengke's blog - Mengke's coding journey`,
+  title: `Sudar Blogger - Blog's coding journey`,
   author: 'Mengke',
-  headerTitle: `Mengke's blog`,
+  headerTitle: `Sudar Blogger`,
   description:
     'A personal space on the cloud where I document my programming journey, sharing lessons, insights, and resources for fellow developers.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://www.mengke.me',
+  siteUrl: 'https://sudar.id',
   siteRepo: 'https://github.com/mk965/mengke.me',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/profile.webp`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.jpeg`,
